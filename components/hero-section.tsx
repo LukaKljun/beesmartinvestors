@@ -40,7 +40,7 @@ export function HeroSection() {
                 <div className="text-sm text-muted-foreground">{t("colonyLossPrevented")}</div>
               </div>
               <div>
-                <div className="text-2xl font-bold text-foreground">€90</div>
+                <div className="text-2xl font-bold text-foreground">€300</div>
                 <div className="text-sm text-muted-foreground">{t("hardwareCost")}</div>
               </div>
               <div>
