@@ -113,7 +113,7 @@ export function CompetitionSection() {
 
               <div className="grid grid-cols-5 gap-4 p-4 items-center bg-primary/5">
                 <div className="font-medium">{t("priceRange")}</div>
-                <div className="text-center font-bold text-primary">€90</div>
+                <div className="text-center font-bold text-primary">€300</div>
                 <div className="text-center">€200-300</div>
                 <div className="text-center">€2000+</div>
                 <div className="text-center">€400-600</div>
