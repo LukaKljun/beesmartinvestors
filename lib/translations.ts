@@ -100,7 +100,7 @@ export const translations = {
     sloveniaMarketDesc: "Lokalni trg z 25.000+ čebelarji, naš začetni cilj",
     businessModelTitle: "Poslovni model",
     hardwareTitle: "Strojna oprema",
-    hardwarePrice: "300€",
+    hardwarePrice: "500€",
     hardwareDescription: "Enkratni nakup BeeSmart naprave z vsemi senzorji in solarno ploščo",
     hardwareFeatures:
       "• Popoln paket senzorjev\n• Solarna plošča in baterija\n• Samodejni sistem zapiranja\n• 2-letna garancija",
@@ -280,7 +280,7 @@ export const translations = {
     sloveniaMarketDesc: "Local market with 25,000+ beekeepers, our initial target",
     businessModelTitle: "Business Model",
     hardwareTitle: "Hardware",
-    hardwarePrice: "€300",
+    hardwarePrice: "€500",
     hardwareDescription: "One-time purchase of BeeSmart device with all sensors and solar panel included",
     hardwareFeatures:
       "• Complete sensor package\n• Solar panel & battery\n• Automated closure system\n• 2-year warranty",
