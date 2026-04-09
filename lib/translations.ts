@@ -105,12 +105,12 @@ export const translations = {
     hardwareFeatures:
       "• Popoln paket senzorjev\n• Solarna plošča in baterija\n• Samodejni sistem zapiranja\n• 2-letna garancija",
     basicSubscriptionTitle: "Osnovna naročnina",
-    basicSubscriptionPrice: "12€/leto",
+    basicSubscriptionPrice: "12€/mesec",
     basicSubscriptionDescription: "Osnovne funkcije spremljanja in opozarjanja za posamezne čebelarje",
     basicFeatures:
       "• Spremljanje v realnem času\n• Osnovna opozorila\n• Dostop do mobilne aplikacije\n• 1-letna zgodovina podatkov",
     proSubscriptionTitle: "Pro naročnina",
-    proSubscriptionPrice: "30€/leto",
+    proSubscriptionPrice: "36€/mesec",
     proSubscriptionDescription: "Napredna analitika in storitve za komercialne operacije",
     proFeatures:
       "• Napredna analitika\n• Napovedni vpogledi\n• Upravljanje več panjev\n• Neomejena zgodovina podatkov\n• Prednostna podpora",
@@ -285,11 +285,11 @@ export const translations = {
     hardwareFeatures:
       "• Complete sensor package\n• Solar panel & battery\n• Automated closure system\n• 2-year warranty",
     basicSubscriptionTitle: "Basic Subscription",
-    basicSubscriptionPrice: "€12/year",
+    basicSubscriptionPrice: "€12/month",
     basicSubscriptionDescription: "Essential monitoring and alert features for individual beekeepers",
     basicFeatures: "• Real-time monitoring\n• Basic alerts\n• Mobile app access\n• 1-year data history",
     proSubscriptionTitle: "Pro Subscription",
-    proSubscriptionPrice: "€30/year",
+    proSubscriptionPrice: "€36/month",
     proSubscriptionDescription: "Advanced analytics and services for commercial operations",
     proFeatures:
       "• Advanced analytics\n• Predictive insights\n• Multi-hive management\n• Unlimited data history\n• Priority support",
